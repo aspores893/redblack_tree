@@ -1,0 +1,8 @@
+
+*.db-shm
+*.db
+*.opendb
+*.ipch
+*.db-wal
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
